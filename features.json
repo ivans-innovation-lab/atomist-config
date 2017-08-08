@@ -27,6 +27,16 @@
                     "followers": []
                 }
             ]
+        },
+        "my-company-domain-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "my-company-customer-domain"
+                    ]
+                }
+            ]
         }
     }
 }
