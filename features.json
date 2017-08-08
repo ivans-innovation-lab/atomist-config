@@ -37,6 +37,16 @@
                     ]
                 }
             ]
+        },
+        "my-company-materialized-view-seed": {
+            "features": [
+                {
+                    "name": "SpringBoot.Structure",
+                    "followers": [
+                        "my-company-customer-materialized-view"
+                    ]
+                }
+            ]
         }
     }
 }
