@@ -32,7 +32,9 @@
             "features": [
                 {
                     "name": "SpringBoot.Structure",
-                    "followers": []
+                    "followers": [
+                        "my-company-customer-domain"
+                    ]
                 }
             ]
         }
